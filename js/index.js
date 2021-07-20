@@ -21,7 +21,6 @@ function getCalc() {
     if (eingabe === result) {
         alert("rightiright");
         
-        window.close();
         window.open('index2.html');
     }
     else {
