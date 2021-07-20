@@ -1,0 +1,23 @@
+
+header,main,footer{
+    max-width:1024px;
+    margin:0 auto;
+    padding:1em 0;
+}
+
+.getCalc{
+    margin:0 auto;
+    width:100%;
+    height:20vh;
+    font-size:2em;
+
+}
+.getCalc:hover{
+    background-color:silver;
+    cursor:pointer;
+}
+
+ul{
+    display:flex;
+    justify-content:space-between;
+}
